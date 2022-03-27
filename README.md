@@ -24,4 +24,4 @@
 本账号为个人账号，提供给大家，不需要大家掏钱，只是简单关注下公众号，举报的话大家就没法下载咯
 
 
-![qrcode_for_gh_78588d50f358_1280](https://user-images.githubusercontent.com/10216673/160289778-0a64eb40-6441-4dc0-b683-d920e0413401.jpg)
+![qrcode_for_gh_78588d50f358_1280](https://user-images.githubusercontent.com/10216673/160289778-0a64eb40-6441-4dc0-b683-d920e0413401.jpg =300x300)
