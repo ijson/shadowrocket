@@ -25,4 +25,4 @@
 
 关注公众号,回复:小火箭  将自动推送给您最新账号密码,账号没周会解锁1次,尽量让各位在使用时,不会出现锁定的情况
 
-![关注公众号不迷路](https://user-images.githubusercontent.com/10216673/160289778-0a64eb40-6441-4dc0-b683-d920e0413401.jpg)
+![qrcode_for_gh_78588d50f358_344](https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg)
