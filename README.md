@@ -1,6 +1,11 @@
 # Shadowrocket
 
-小火箭Shadowrocket账号免费提供,苹果美区账号
+小火箭Shadowrocket账号免费提供,
+shadowrocket账号分享
+shadowrocket 2022
+小火箭2022
+苹果美区账号
+最新shadowrocket账号
 
 避免跟丢，本项目收藏或关注公众号,如果账号被锁定,直接回复:已锁定,我将尽快解锁
 
