@@ -1,16 +1,19 @@
 # Shadowrocket
 
-小火箭Shadowrocket账号免费提供
-shadowrocket账号分享
-shadowrocket 2022
-小火箭2022
-苹果美区账号
-最新shadowrocket账号
+小火箭Shadowrocket账号免费提供 
+shadowrocket账号分享 
+shadowrocket 2022 
+小火箭2022 
+苹果美区账号 
+最新shadowrocket账号 
+小火箭账号提供
 
 避免跟丢，本项目收藏或关注公众号，如果账号被锁定，直接回复:已锁定,我将尽快解锁
 因账号与手机号绑定，如需要验证码，请加群QQ:726048727 联系管理员或者进去微信群.群里需要发下短信确认时间即可 ，大家可以常驻微信群或QQ群，可将消息设置成免打扰模式，后期如果有需要,随时联系群主
 
 ![image](https://user-images.githubusercontent.com/10216673/160361238-853bbab7-80c1-4746-8184-274c0fada275.png)
+
+## 可点击下Star或Watch 让本贴置顶,分享给更多的人
 
 
 ## 特殊声明
