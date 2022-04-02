@@ -1,6 +1,6 @@
 # Shadowrocket
 
-小火箭Shadowrocket账号免费提供 
+火箭Shadowrocket账号免费提供 
 shadowrocket账号分享 
 shadowrocket 2022 
 小火箭2022 
@@ -8,19 +8,18 @@ shadowrocket 2022
 最新shadowrocket账号 
 小火箭账号提供
 
-#### 因有人通过索取验证码,修改本账号绑定手机号及密码,做出以下规则,如感不适,可通过其他途径获取shadowrocket账号
 
-1. 同一个微信号 当天只会提供一次验证码
-2. 不同微信号,同一地区(城市),10分钟之内只提供1次验证码
+## 可点击右上角的 `Star`或`Watch`让本贴置顶，分享给更多的人
 
 
-### 避免跟丢，本项目收藏或关注公众号，如果账号被锁定，直接回复:已锁定,我将尽快解锁
+提供美国App Store账号无锁，稳定下载，可下载Shadowrocket软件，先提供账号，登录成功后交费(2元一次，包括后期的软件更新，不在收取任何费用)，如下载后遁走，后期软件升级则不在保障，且会直接拉入黑名单
 
-因账号与手机号绑定，如需要验证码，请扫码加入微信群[优先推荐加微信群,QQ可能回复不及时]或加群QQ群:726048727 联系管理员.群里需要发下短信确认时间即可 ，大家可以常驻微信群或QQ群，可将消息设置成免打扰模式，后期如果有需要,随时联系群主
 
-![image](https://user-images.githubusercontent.com/10216673/160361238-853bbab7-80c1-4746-8184-274c0fada275.png)
+### 避免跟丢，推荐将本项目收藏或关注公众号,也可加入微信群
 
-## 可点击右上角的 `Star`或`Watch`让本贴置顶,分享给更多的人
+
+<img src="https://user-images.githubusercontent.com/10216673/161400227-00d3bd81-9313-4104-a174-3a9c4a7f9488.png" width=250 height=300></img>
+
 
 
 ## 特殊声明
@@ -38,10 +37,44 @@ shadowrocket 2022
 * ID只能在App Store登录！
 
 
-关注公众号不迷路，如果账号锁定请回复：`已锁定`，我们将尽快解锁
+<img src="https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg" width=280 height=280></img>
 
-本账号为个人账号，提供给大家，不需要大家掏钱，只是简单关注下公众号，举报的话大家就没法下载咯
 
-关注公众号，回复(不要打错字):   `小火箭`  将自动推送给您最新账号密码，账号每周会解锁一次，尽量让各位在使用时，不会出现锁定的情况
+关注公众号，回复(不要打错字):   `小火箭`  将自动推送给您最新账号密码，账号每周会解锁一次，不会出现锁定的情况
 
-![qrcode_for_gh_78588d50f358_344](https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg)
+
+#### 操作步骤(若提供验证码错误,将10分钟之后再次提供,请谅解[存在恶意修改账号手机号及邮箱地址]):
+1. 拿到最新账号，在App Store中输入账号及密码进行登录，要求输入验证码
+2. 微信群中与群主沟通，如果在线，可以扫码支付;如果不在线，等待群主回复后再进行支付操作(白天上班可能开会或其他工作事宜，不能立即回复，如果支付了，没第一时间回复，群主会主动找你)
+3. 缴费成功后，截图缴费凭证，并发送到微信群中，我会将验证码发送到微信群中，登录并下载成功后，方可退出账号
+4. 如果后期推出新版本,可通过公众号获取账号及密码,并在群中与群主索取登录验证码即可
+
+
+
+<img src="https://user-images.githubusercontent.com/10216673/161399779-c6534580-127d-4833-bd23-53c85912992c.png" width=300 height=400></img>
+
+
+
+
+
+
+### 我们的交易记录
+
+
+<img src="https://user-images.githubusercontent.com/10216673/161400612-aa8f8ce5-0614-4443-92b8-ac161c5d10b6.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400617-44aa7a94-b184-437e-8cbe-fe51fc17a507.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400622-b273c8a5-535d-4dd0-8a94-bdf5d176e07b.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400626-d39a3e83-3554-4b52-9a44-8f520452ce31.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400629-7eedb480-7800-4fb4-a3a9-1c6baaed5eee.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400633-400ba698-6b6c-49f8-962c-c9b79a745602.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400635-fd03f9e3-9aa4-468c-970e-170517bae883.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400636-e9d160ff-59b8-4528-805d-b7c341d5613f.png" width=400 height=700></img>
+<img src="https://user-images.githubusercontent.com/10216673/161400640-cbe7da13-844c-41fc-8869-8af80d2652bb.png" width=400 height=700></img>
+
+
+
+
+
+
+
+
