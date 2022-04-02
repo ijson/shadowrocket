@@ -58,7 +58,7 @@ shadowrocket 2022
 
 
 
-### 我们的交易记录
+### 我们的交易记录(一群交易记录)
 
 
 <img src="https://user-images.githubusercontent.com/10216673/161400612-aa8f8ce5-0614-4443-92b8-ac161c5d10b6.png" width=400 height=700></img>
