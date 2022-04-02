@@ -12,7 +12,7 @@ shadowrocket 2022
 ## 可点击右上角的 `Star`或`Watch`让本贴置顶，分享给更多的人
 
 
-提供美国App Store账号无锁，稳定下载，可下载Shadowrocket软件
+提供美国App Store账号无锁，稳定下载，可下载Shadowrocket软件，```仅提供软件下载，不提供节点```
 
 
 ### 避免跟丢，推荐将本项目收藏或关注公众号,也可加入微信群
