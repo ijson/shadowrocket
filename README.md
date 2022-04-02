@@ -69,10 +69,3 @@ shadowrocket 2022
 <img src="https://user-images.githubusercontent.com/10216673/161400636-e9d160ff-59b8-4528-805d-b7c341d5613f.png" width=400 height=700></img>
 <img src="https://user-images.githubusercontent.com/10216673/161400640-cbe7da13-844c-41fc-8869-8af80d2652bb.png" width=400 height=700></img>
 
-
-
-
-
-
-
-
