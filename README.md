@@ -18,7 +18,7 @@ shadowrocket 2022
 ### 避免跟丢，推荐将本项目收藏或关注公众号,也可加入微信群
 
 
-<img src="https://user-images.githubusercontent.com/10216673/161400227-00d3bd81-9313-4104-a174-3a9c4a7f9488.png" width=250 height=300></img>
+<img src="https://user-images.githubusercontent.com/10216673/162352927-750ed688-ed6c-4a63-b4e1-8850eae08c65.png" width=250 height=500></img>
 
 
 
