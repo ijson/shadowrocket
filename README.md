@@ -1,17 +1,23 @@
 # Shadowrocket
 
-小火箭Shadowrocket账号免费提供 
-shadowrocket账号分享 
-shadowrocket 2022 
-小火箭2022 
-苹果美区账号 
-最新shadowrocket账号 
-小火箭账号提供
+小火箭Shadowrocket账号免费提供 </br>
+shadowrocket账号分享</br> 
+shadowrocket 2022 </br>
+小火箭2022 </br>
+苹果美区账号 </br>
+最新shadowrocket账号 </br>
+小火箭账号提供</br>
+免费美国账号</br>
+X-QuantumultX</br>
+QuantumultX</br>
+QuantumultX账号</br>
+圈X账号</br>
 
-避免跟丢，本项目收藏或关注公众号，如果账号被锁定，直接回复:已锁定,我将尽快解锁
+避免跟丢，本项目收藏或关注公众号，如果账号被锁定，直接回复:已锁定,我将尽快解锁</br></br>
 因账号与手机号绑定，如需要验证码，请加群QQ:726048727 联系管理员或者进去微信群.群里需要发下短信确认时间即可 ，大家可以常驻微信群或QQ群，可将消息设置成免打扰模式，后期如果有需要,随时联系群主
 
-![image](https://user-images.githubusercontent.com/10216673/160361238-853bbab7-80c1-4746-8184-274c0fada275.png)
+<img src="https://user-images.githubusercontent.com/10216673/163908102-eae73b6a-590c-4e84-9475-bb7f9068e8fc.png" width=400 height=500></img>
+
 
 ## 可点击下Star或Watch 让本贴置顶,分享给更多的人
 
@@ -36,4 +42,6 @@ shadowrocket 2022
 
 关注公众号，回复(不要打错字):   `小火箭`  将自动推送给您最新账号密码，账号每周会解锁一次，尽量让各位在使用时，不会出现锁定的情况
 
-![qrcode_for_gh_78588d50f358_344](https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg)
+
+<img src="https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg" width=250 height=250></img>
+
