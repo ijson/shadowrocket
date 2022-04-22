@@ -27,8 +27,8 @@ QuantumultX账号</br>
 
 ## 特殊声明
 
-- ① 先在「系统设置」里，找到「iTunes Store与App Store」，然后退出自己的ID，登录提供的ID，在已购买项目里找到：Shadowrocket，下载安装软件APP!
-- ② 安装完请及时从APP Store里退出提供的账号，以免手机被锁！
+- ① 进入「App Store」，然后退出自己的ID，登录提供的ID，在已购买项目里找到：Shadowrocket，下载安装软件APP!
+- ② 安装完请及时从 APP Store 里退出提供的账号，以免手机被锁！
 - ③ 不要点击账号升级,否则将无法正常安装
 
 
