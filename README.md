@@ -18,7 +18,7 @@ QuantumultX账号</br>
 
 > 以下为一群二维码,因QQ群,微信群一群索取验证码人员过多,着实影响到了日常生活,已经1群设置为免打扰,不定时进入微信群,免费提供,还有很多网友,就不要在群中使用刺激性言论,免费提供,并不代表义务提供,着急的话就使用其他途径去获取
 
-<img src="https://user-images.githubusercontent.com/10216673/163908102-eae73b6a-590c-4e84-9475-bb7f9068e8fc.png" width=400 height=500></img>
+<img src="https://user-images.githubusercontent.com/10216673/165667702-90957f30-62fa-4507-b55d-b1eed7af08ca.jpeg" width=400 height=500></img>
 
 
 
