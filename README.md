@@ -57,7 +57,7 @@ QuantumultX账号</br>
 
 > 以下为二群二维码,这个群是需要收费的(账号租用一次2元,后期更新不在收费),这个是群主并没有设置为免打扰,实时的,因为愿意缴费的人没多少,所以群里的人也不多,只要群主手机在手里,基本都能第一时间响应,如果不愿意缴费,可以在一群中或寻找其他下载方式,下载后不要退群,可将群设置为免打扰,后期更新可在联系
 
-<img src="https://user-images.githubusercontent.com/10216673/167373666-69b8660c-e159-42ac-9154-a21d734d3cc9.png" width=400 height=500></img>
+<img src="https://user-images.githubusercontent.com/10216673/167373907-7c57d820-8f3d-4640-80d3-5a1cdf0d0735.png" width=400 height=500></img>
 
 
 
