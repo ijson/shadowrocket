@@ -18,8 +18,9 @@ QuantumultX账号</br>
 
 > 以下为一群二维码,因QQ群,微信群一群索取验证码人员过多,着实影响到了日常生活,已经1群设置为免打扰,不定时进入微信群,免费提供,还有很多网友,就不要在群中使用刺激性言论,免费提供,并不代表义务提供,着急的话就使用其他途径去获取
 
+#### 免费群
 
-<img src="https://user-images.githubusercontent.com/10216673/167239332-6c31a3d8-84be-4ebb-88ea-3ed45396ba02.png" width=400 height=500></img>
+<img src="https://user-images.githubusercontent.com/10216673/168589307-82487ce5-b39d-425c-81d9-a50ec2722a52.png" width=400 height=500></img>
 
 
 
@@ -46,8 +47,10 @@ QuantumultX账号</br>
 
 关注公众号，回复(不要打错字):   `小火箭`  将自动推送给您最新账号密码，账号每周会解锁一次，尽量让各位在使用时，不会出现锁定的情况
 
+#### 公众号
 
 <img src="https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg" width=250 height=250></img>
+
 
 
 
@@ -57,9 +60,11 @@ QuantumultX账号</br>
 
 > 以下为二群二维码,这个群是需要收费的(账号租用一次2元,后期更新不在收费),这个是群主并没有设置为免打扰,实时的,因为愿意缴费的人没多少,所以群里的人也不多,只要群主手机在手里,基本都能第一时间响应,如果不愿意缴费,可以在一群中或寻找其他下载方式,下载后不要退群,可将群设置为免打扰,后期更新可在联系
 
-<img src="https://user-images.githubusercontent.com/10216673/167373907-7c57d820-8f3d-4640-80d3-5a1cdf0d0735.png" width=400 height=500></img>
+#### VIP群
+<img src="https://user-images.githubusercontent.com/10216673/168589400-add028df-d84e-4202-9a8a-5e3a53668042.png" width=400 height=500></img>
 
 
+### 收款码
 
 <img src="https://user-images.githubusercontent.com/10216673/161399779-c6534580-127d-4833-bd23-53c85912992c.png" width=300 height=400></img>
 
