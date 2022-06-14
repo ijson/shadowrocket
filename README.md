@@ -20,7 +20,8 @@ QuantumultX账号</br>
 
 #### 免费群
 
-<img src="https://user-images.githubusercontent.com/10216673/168589307-82487ce5-b39d-425c-81d9-a50ec2722a52.png" width=400 height=500></img>
+
+<img src="https://user-images.githubusercontent.com/10216673/173596031-2053a42c-d253-4356-8f0a-92f2b223feb9.png" width=400 height=500></img>
 
 
 
