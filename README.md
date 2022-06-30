@@ -22,7 +22,7 @@ QuantumultX账号</br>
 
 
 <img src="https://user-images.githubusercontent.com/10216673/173596031-2053a42c-d253-4356-8f0a-92f2b223feb9.png" width=400 height=500></img>
-
+二维码如果过期,请添加微信号:QQ87501553
 
 
 ## 可点击下Star或Watch 让本贴置顶,分享给更多的人
@@ -65,6 +65,7 @@ QuantumultX账号</br>
 #### VIP群
 <img src="https://user-images.githubusercontent.com/10216673/173594304-9b9cd794-c458-4576-9963-1f149c255fb2.png" width=400 height=500></img>
 
+二维码如果过期,请添加微信号:QQ87501553
 
 ### 收款码
 
