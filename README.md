@@ -21,7 +21,8 @@ QuantumultX账号</br>
 #### 免费群
 
 
-<img src="https://user-images.githubusercontent.com/10216673/173596031-2053a42c-d253-4356-8f0a-92f2b223feb9.png" width=400 height=500></img>
+
+<img src="https://user-images.githubusercontent.com/10216673/193506300-26028b84-dd8f-4c02-9b15-76ecc8d4a0d4.png" width=400 height=500></img>
 二维码如果过期,请添加微信号:QQ87501553
 
 
@@ -50,6 +51,8 @@ QuantumultX账号</br>
 
 #### 公众号
 
+`如果公众号无法查看,请搜索公众号: 西数云科`
+
 <img src="https://user-images.githubusercontent.com/10216673/160290184-10b0a57a-c27d-4024-98f5-785bfe0c7b8f.jpg" width=250 height=250></img>
 
 
@@ -63,6 +66,9 @@ QuantumultX账号</br>
 
 
 #### VIP群
+
+`因人数过多,VIP群即日起不在对外开放,缴费后会邀请加入VIP群,后期更新或下载,直接VIP群中沟通即可`
+
 <img src="https://user-images.githubusercontent.com/10216673/173594304-9b9cd794-c458-4576-9963-1f149c255fb2.png" width=400 height=500></img>
 
 二维码如果过期,请添加微信号:QQ87501553
