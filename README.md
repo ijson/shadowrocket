@@ -95,5 +95,7 @@ QuantumultX账号</br>
 
 ### 收款码
 
+> 添加微信(QQ87501553)仅需2元
+
 <img src="https://user-images.githubusercontent.com/10216673/173594546-df791ea5-dec6-426b-8bd7-4c19b6ea5362.png" width=300 height=400></img>
 
